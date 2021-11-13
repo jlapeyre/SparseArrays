@@ -1,5 +1,7 @@
 name = "SparseArrays"
-uuid = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+uuid = "cbe3f2b0-4434-11ec-30b3-65b4449850f0"
+#uuid = "2f01184e-e22b-5df5-ae63-d93ebab69eaf" # UUID from version in stdlib
+
 
 [deps]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
